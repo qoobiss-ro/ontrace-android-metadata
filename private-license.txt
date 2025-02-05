@@ -1,0 +1,3 @@
+ONTRACE ANDROID SDK LICENSE
+
+Please see the terms of your Ontrace Services Agreement which you are bound by with respect to your use of the Ontrace SDK. 
