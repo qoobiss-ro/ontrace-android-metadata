@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.qoobiss.ontraceexampleapp-mergeDebugResources-79:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/vladbuhaescu/.gradle/caches/8.9/transforms/98cab9cd919b99bc921ca1d07a3387ed/transformed/appcompat-1.7.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
