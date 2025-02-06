@@ -1,5 +1,10 @@
 *.iml
 .gradle
+.gradle/*
+.gradle/**
+**/.gradle/*
+**/.gradle/**
+
 /local.properties
 /.idea/*
 /.idea/**
