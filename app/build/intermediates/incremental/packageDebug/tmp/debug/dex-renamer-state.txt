@@ -1,4 +1,4 @@
-#Thu Feb 06 14:53:52 EET 2025
+#Thu Feb 06 17:05:56 EET 2025
 base.0=/Users/vladbuhaescu/Documents/Developement/OntraceMeta/ontrace-android-metadata/OntraceExampleApp/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 base.1=/Users/vladbuhaescu/Documents/Developement/OntraceMeta/ontrace-android-metadata/OntraceExampleApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 base.2=/Users/vladbuhaescu/Documents/Developement/OntraceMeta/ontrace-android-metadata/OntraceExampleApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
