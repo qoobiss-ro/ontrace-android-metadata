@@ -6,11 +6,11 @@ For usage instructions, see: [Maven Central](https://central.sonatype.com/artifa
 
 The full implementation of this library is stored in a private repository.
 
+# Introductions
 
-
-# Introduction
-
-Ontrace SDK provides a set of screens and functionalities that enable applications to implement user identity verification flow for the romanian identity cards. It comes with a predefined set of steps that will guide the user to validate his id.
+Ontrace SDK provides a set of screens and functionalities that enable applications to implement user identity verification flow for the romanian identity cards.
+It comes with a predefined set of steps that will guide the user to validate his id.
+Please make sure you always use the latest version on Maven Central.
 
 ## Installation
 
