@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-	implementation("io.github.vlad-buhaescu-qoob:ontrace-sdk:0.0.32")
+	implementation("io.github.vlad-buhaescu-qoob:ontrace-sdk:0.0.36")
 	implementation(libs.androidx.core.ktx)
 	implementation(libs.androidx.lifecycle.runtime.ktx)
 	implementation(libs.androidx.activity.compose)

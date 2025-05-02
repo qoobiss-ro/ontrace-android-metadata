@@ -22,7 +22,7 @@ To integrate `OntraceSDK` into your project, add the following to your module `g
 
 ```gradle
 dependencies {
-	implementation("io.github.vlad-buhaescu-qoob:ontrace-sdk:0.0.32")
+    implementation("io.github.vlad-buhaescu-qoob:ontrace-sdk:0.0.36")
     // your own dependencies	
 }
 ```
